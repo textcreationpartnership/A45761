@@ -1,0 +1,429 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Israel's reformation</title>
+            <author>Ramsay, Thomas, b. ca. 1631.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45761</idno>
+            <idno type="STC">Wing I067D</idno>
+            <idno type="STC">ESTC R179148</idno>
+            <idno type="EEBO-CITATION">99828678</idno>
+            <idno type="PROQUEST">99828678</idno>
+            <idno type="VID">33109</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45761)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33109)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1967:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Israel's reformation</title>
+                  <author>Ramsay, Thomas, b. ca. 1631.</author>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Joseph Ben Israel = Thomas Ramsay.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jews --  History --  586 B.C.-70 A.D. --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33109:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <p>ISRAEL's REFORMATION.</p>
+            <q>
+               <p>Haec ultra quid erit niſi Ludus?</p> 
+               <bibl>
+                  <hi>Juvenal</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year, 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:33109:2"/>
+            <!-- PDF PAGE 20 -->
+            <pb n="3" facs="tcp:33109:2"/>
+            <!-- PDF PAGE 20 -->
+            <head>Iſrael's Reformation.</head>
+            <lg>
+               <l>WHen the Children of <hi>Iſrael</hi> did what they
+wou'd,</l>
+               <l>Not crampt with dull Notions of Evil or Good,</l>
+               <l>But liv'd at their Liberty, curb'd by no Law,</l>
+               <l>No <hi>King</hi> to controul 'em, or keep 'em in Awe;</l>
+               <l>Then bleſt were the People with Plenty and Peace,</l>
+               <l>Till their wavering Minds took a Surfeit of eaſe;</l>
+               <l>For Humour, like blood, in a high State of Health,</l>
+               <l>Grows diſorderly hot, and enflameth it ſelf.</l>
+               <l>The <hi>Hebrews</hi> were always a murmuring Rout,</l>
+               <l>A giddy-brain'd Race ever veering about;</l>
+               <l>What with eager Deſires one day they purſu'd,</l>
+               <l>The next they deſpis'd, and more heartily loath'd;</l>
+               <l>Like the <hi>Frogs</hi> in the Fable, a King they would
+have,</l>
+               <l>For the ſake of a Change, they would <hi>Slavery</hi>
+crave.</l>
+            </lg>
+            <lg>
+               <l>Many <hi>Monarchs</hi> of different Tempers they had;</l>
+               <l>Now bleſt with a Good, next oppreſt with a bad:</l>
+               <pb n="4" facs="tcp:33109:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 21 -->
+               <l>But long were they rul'd by a <hi>Monarch,</hi> did hate</l>
+               <l>The troubleſome Cares and Affairs of the State:</l>
+               <l>
+                  <hi>Aegyptian</hi> Delights his Affections did pleaſe,</l>
+               <l>He diſſolv'd all his Senſes in Riot and Eaſe;</l>
+               <l>His Will was his Law, and his Pleaſure his Guide,</l>
+               <l>A <hi>Slave</hi> to his Tuſt, without Power or Pride:</l>
+               <l>He by his Example made them go aſtray,</l>
+               <l>Tho' ſtubborn, yet in Ill, they their <hi>Rulers</hi>
+obey,</l>
+               <l>Then <hi>Sodom</hi> was guiltleſs, compar'd to the Land,</l>
+               <l>For who was in Faſhion, was ſure to be damn'd;</l>
+               <l>But nothing that's mortal can ever remain,</l>
+               <l>A Period is put to his Life and his Reign.</l>
+            </lg>
+            <lg>
+               <l>Now <hi>Iſraelites</hi> Hope, ſince this <hi>Monarch</hi>
+is dead,</l>
+               <l>That the Vices and Cuſtoms of <hi>Aegypt</hi> are fled;</l>
+               <l>And the next <hi>Prince's</hi> Virtue ſo far may extend,</l>
+               <l>His Example may teach all the Bad to amend;</l>
+               <l>They're in a Miſtake, tho' they've chang'd their
+Condition,</l>
+               <l>'Tis worſe and worſe ſtill, to a damn'd
+<hi>Superſtition;</hi>
+               </l>
+               <l>For he curſt Idolatry ſtrove to recal,</l>
+               <l>Building Altars and Temples to <hi>Moloch</hi> and
+<hi>Baal:</hi>
+               </l>
+               <l>But Heaven to ſhew how that People he lov'd,</l>
+               <l>In Pity look'd down, and thoſe Miſchefs remov'd;</l>
+               <pb n="5" facs="tcp:33109:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 21 -->
+               <l>And ſent 'em a <hi>Hero,</hi> who eas'd all their Care,</l>
+               <l>And made 'em more happy than ever they were;</l>
+               <l>His Perſon did venture, of Dangers partake,</l>
+               <l>Deſpis'd any Hazards that were for their Sake;</l>
+               <l>War's frightful Alarms, he commanded to ceaſe,</l>
+               <l>And through the Realm ſcatter'd Plenty and Peace.</l>
+               <l>Juſt ſo, when bellowing Winds roar'd our aloud;</l>
+               <l>And diſmal Tempeſts ſhook the affrighted Croud;</l>
+               <l>When hardy Sailors trembled at the Storm,</l>
+               <l>Fearleſs of death, yet fear'd it in this Form;</l>
+               <l>The mounting Waves our Bleſſed <hi>Saviour</hi> layd,</l>
+               <l>A Calm commanded, and the Winds obey'd.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Sanbedrim</hi> for the great Bleſſing was
+ſent,</l>
+               <l>Vote their Thanks to the <hi>Lord</hi> with a mutual
+Conſent;</l>
+               <l>And the Land to reform they reſolve in a trice,</l>
+               <l>With <hi>Statutes</hi> and <hi>Laws</hi> to give Battle to
+<hi>Vice.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>To encounter with <hi>Satan</hi> their Fore-fathers
+thought,</l>
+               <l>'Twas enough if <hi>Gods Doctrine</hi> was faithfully
+taught,</l>
+               <l>For <hi>Moſes</hi> againſt him no otherwiſe fought:</l>
+               <l>But <hi>Senate</hi> profound, by Experience did find,</l>
+               <l>That <hi>Scripture Divine</hi> had ſmall Force on the
+Mind,</l>
+               <l>And that <hi>Others</hi> no more, than <hi>Themſelves</hi>
+it did bind:</l>
+               <pb n="6" facs="tcp:33109:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 22 -->
+               <l>To tell you the Truth, 'twas no Wonder at all,</l>
+               <l>That their <hi>Faith</hi> and <hi>Religion</hi> were dwindled
+ſo ſmall;</l>
+               <l>For how ſhould a Stranger walk in the right Way,</l>
+               <l>When the Guide he relies on is wandred aſtray,</l>
+               <l>Who conſiders how looſely the Teachers did ride,</l>
+               <l>Can't blame the poor Learners for ſlipping aſide;</l>
+               <l>The <hi>Levite</hi> on Sabboth 'gainſt Drinking would
+rail,</l>
+               <l>And on the next day to his Text would turn tayl.</l>
+            </lg>
+            <lg>
+               <l>A Gleek of their Teachers whoſe <hi>Pockets</hi> were
+ſtor'd,</l>
+               <l>With the Ready ſo fluſh, as good Wine to afford,</l>
+               <l>Would ſecretly meet to avoid the Worlds Eye,</l>
+               <l>That cenſuring Laity might not eſpy;</l>
+               <l>In Rome that was private, but firſt they took Care,</l>
+               <l>Good ſtore to procure of their Darling Red Ware;</l>
+               <l>A doſen and half of good Flasks they provide,</l>
+               <l>With Edibles curious, and Plenty beſide,</l>
+               <l>For <hi>Prieſts</hi> have nice Palates or elſe they're
+bely'd:</l>
+               <l>Too much you'll imagine ſix Bottles a piece,</l>
+               <l>But Faith Sir, believe me, they'll do it with Faſe;</l>
+               <l>Three's enough for a Layman, but a Divine</l>
+               <l>Will eaſily diſpence with ſix bottles of Wine;</l>
+               <pb n="7" facs="tcp:33109:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 22 -->
+               <l>For he that drinks moſt will be ſure to inherit,</l>
+               <l>Of all the dull Tribe the beſt Portion of Spirit:</l>
+               <l>Time pleaſantly paſſes, they're merry and free,</l>
+               <l>Good ſanctify'd Men, for the World did not ſee.</l>
+            </lg>
+            <lg>
+               <l>Nay the poor Country <hi>Levite,</hi> whoſe 20 Pound
+yearly,</l>
+               <l>Could no higher ſtretch than Infuſion of
+<hi>Barley;</hi>
+               </l>
+               <l>In ſome little Ale-houſe he never would fail,</l>
+               <l>To ſoak divine Carcaſs in Nappy brown Ale,</l>
+               <l>Contentedly ſwallowing his vile Muddy Liquor,</l>
+               <l>Till changing his Station, he riſes to better;</l>
+               <l>And now the true Reaſon is found out at laſt,</l>
+               <l>Why the <hi>Rabbins</hi> full Sides grow ſo gracefully
+faſt;</l>
+               <l>When his own very <hi>Curate's</hi> ſo lean you would
+ſwear,</l>
+               <l>He was fed by the <hi>Tythes</hi> of the fat <hi>Drs.</hi>
+Prayer,</l>
+               <l>Or like the <hi>Cameleon</hi> he liv'd upon air;</l>
+               <l>Cram him with a Living as large as the reſt,</l>
+               <l>He'll ſoon make as Jolly a <hi>Prieſt</hi> as the
+beſt;</l>
+               <l>Their <hi>Paunches</hi> and <hi>Tythes</hi> grow in Conſort
+together,</l>
+               <l>As one does encreaſe, ſo encreaſes the other.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Hilkiab,</hi> whom <hi>Iſraelite Annals</hi> do
+place</l>
+               <l>'Mongſt the Reverend Heads of the ſanctify'd Race.</l>
+               <pb n="8" facs="tcp:33109:5"/>
+               <!-- PDF PAGE 23 -->
+               <l>For Eloquence fam'd, for his Learning was prais'd,</l>
+               <l>But his Wir above all laſting Lawrels had rais'd,</l>
+               <l>Becauſe 'tis a Plant very rarely is found</l>
+               <l>To grow upon barren <hi>Levitical</hi> Ground;</l>
+               <l>Yet this famous <hi>Rabbin</hi> is left on Record,</l>
+               <l>As ſuſpected to live without fear of the
+<hi>Lord;</hi>
+               </l>
+               <l>Tho' the <hi>Jews</hi> for his Wit did him ſo much
+adore,</l>
+               <l>It was whiſper'd about that he both drank and ſwore;</l>
+               <l>Nay, 'twas ſhrewdly ſuſpected too that he
+did—more.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Jehazel,</hi> another <hi>Rabbinical</hi> Chief,</l>
+               <l>Fam'd for grave Aſpect, and Sanctity of Life,</l>
+               <l>But powerful Int'reſt ſo ſtrongly was mixt,</l>
+               <l>That the <hi>Prieſt</hi> from his pious Reſolves it
+unfixt,</l>
+               <l>His <hi>Jehu</hi>-like furious deſire to be Great,</l>
+               <l>To the <hi>Hebrews</hi> betray'd his Devotion a Cheat.</l>
+            </lg>
+            <lg>
+               <l>Nor muſt <hi>Rabbi Joram</hi> eſcape being nam'd,</l>
+               <l>Thro' all their Records for his Avarice fam'd,</l>
+               <l>So publickly known to be guilty, the Poor</l>
+               <l>Set a Mark (that they might not loſe time) at his door;</l>
+               <l>So in Places of Danger, a <hi>Beacon</hi>'s rais'd high,</l>
+               <l>To give Notice to Sailors they muſt not come nigh,</l>
+               <l>But keep as far off as they can, and paſs by.</l>
+            </lg>
+            <pb n="9" facs="tcp:33109:5"/>
+            <!-- PDF PAGE 23 -->
+            <lg>
+               <l>Their <hi>Magiſtrates</hi> too, as their Hiſtories
+ſay,</l>
+               <l>Were found with the <hi>Levites</hi> to walk the wrong
+Way;</l>
+               <l>And thoſe were inveſted with Power immenſe,</l>
+               <l>Cou'd boaſt of poſſeſſing moſt Riches, not
+Senſe;</l>
+               <l>Their <hi>Judges</hi> took <hi>Bribes,</hi> and perverted the
+<hi>Laws,</hi>
+               </l>
+               <l>He that gave the moſt <hi>Money</hi> ner'e fail'd of the
+<hi>Cauſe;</hi>
+               </l>
+               <l>For Right to the Wealthy does always belong,</l>
+               <l>To be poor is demonſtrative Proof to be wrong;</l>
+               <l>
+                  <hi>Forma Pauperis</hi> never recovers the Land,</l>
+               <l>Bad Latin, how ſhould the wiſe Judge underſtand?</l>
+               <l>
+                  <hi>Abiezer</hi> would fit all the Morning on Bench,</l>
+               <l>And in Ev'ning was found to be ſmuggling a Wench;</l>
+               <l>Tho' the Power had left him a long time ago,</l>
+               <l>And Wiſhing and Kiſſing are all he can do.</l>
+               <l>So ſwift-footed <hi>Ringwood,</hi> that in the fair
+Chace,</l>
+               <l>Was ever the Leader, and ne're fail'd the Race;</l>
+               <l>And Fleet-as the Winds, having run down his Foe,</l>
+               <l>With a Courage undaunted he ſeizes him too;</l>
+               <l>Tho' worn out with Age, yet he ſtill loves the Park,</l>
+               <l>And unable to ſtand, he'll lye down and bark.</l>
+            </lg>
+            <lg>
+               <l>When the News of hard <hi>Laws,</hi> and ſevere
+<hi>Reformation,</hi>
+               </l>
+               <l>Was firſt nois'd about through the <hi>Iſraelite</hi>
+Nation,</l>
+               <pb n="10" facs="tcp:33109:6"/>
+               <!-- PDF PAGE 24 -->
+               <l>The Toper ſo ſcar'd, with Affright he turn'd pale,</l>
+               <l>And the bluſtring Courage of Swearer did fail;</l>
+               <l>Pretty Miſs, who with Pleaſure takes pains for her
+Bread,</l>
+               <l>At the hated Report, was moſt diſmally 'fraid,</l>
+               <l>Leſt the Ill-natur'd <hi>Laws</hi> ſhould have ruin'd her
+Trade;</l>
+               <l>But their Fears were all vain, for the very
+<hi>Law-makers,</hi>
+               </l>
+               <l>In an Inſtant of time, were converted to Breakers;</l>
+               <l>For riſing from <hi>Hall,</hi> where they gravely had
+been,</l>
+               <l>Seven hours declaiming 'gainſt <hi>Satan</hi> and
+<hi>Sin,</hi>
+               </l>
+               <l>They parted, and each took a ſeveral way,</l>
+               <l>Some Gaming, ſome Drinking, and ſome to the Play.</l>
+            </lg>
+            <lg>
+               <l>Dull <hi>Elaham</hi> ſwills till he's almoſt dead
+drunk,</l>
+               <l>Then ſtaggering, reels to ſome naſty Clapt Punk.</l>
+            </lg>
+            <lg>
+               <l>Pert <hi>Azel</hi> at Gaming ſits up the whole Night,</l>
+               <l>He has nothing to live by, but what he gets by't;</l>
+               <l>With theſe many more might be nam'd, but my
+<hi>Muſe,</hi>
+               </l>
+               <l>For their Quality's ſake, does the Office refuſe.</l>
+            </lg>
+            <lg>
+               <l>Thus by their <hi>Example</hi> encourag'd in Ill,</l>
+               <l>The reſt of the People remain'd wicked ſtill;</l>
+               <pb n="11" facs="tcp:33109:6"/>
+               <!-- PDF PAGE 24 -->
+               <l>Their <hi>Statutes</hi> and <hi>Laws</hi> had no Power or
+Force,</l>
+               <l>For the <hi>Hebrews</hi> inſtead of Reforming, grew
+worſe;</l>
+               <l>And ev'ry one follow'd his own Inclination,</l>
+               <l>Sin ſtill reign'd triumphant and kept in the Faſhion,</l>
+               <l>In ſpight of the Cry of a ſtrict <hi>Reformation;</hi>
+               </l>
+               <l>As ſoon as the <hi>Statutes</hi> were made, they were
+broke,</l>
+               <l>And the <hi>Penalties</hi> all flew away in a Smoke.</l>
+            </lg>
+            <lg>
+               <l>So when upon the Beach I've ſafely ſtood,</l>
+               <l>Viewing the Surges of the curling Flood,</l>
+               <l>I've ſeen the lofty Billows roaring, riſe</l>
+               <l>With foaming Tops, and daſh'd the frighted Skies;</l>
+               <l>Look but one Minute hence, the threatning Wave is gone,</l>
+               <l>And to a ſilent Bubble turn'd, unheeded glides along.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
